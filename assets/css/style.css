@@ -1,22 +1,10 @@
 .jumbotron {
-    background-image: url('./assets/images/friendsTriviaBanner.png');
+    background-image: url('assets/images/friendsTriviaBanner.png');
     font-family: 'Titillium Web', sans-serif;
     
 }
 
-.card {
-    background-image: url('assets/images/Central_Perk.jpg')
-}
-
-.card-header , .card footer .list-group {
-  
-}
-
 #play-btn {
    background-color: red;
-}
-
-.container {
-  
 }
 
