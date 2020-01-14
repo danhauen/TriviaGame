@@ -12,5 +12,9 @@ body {
 }
 
 .question-card {
-    background-image: url('https://i.pinimg.com/736x/4e/8a/89/4e8a895b6c3830bfc4bbc9d888f9f806--door-decs-door-frames.jpg');
+    background-image: url("https://github.com/danhauen/TriviaGame/blob/master/assets/images/4e8a895b6c3830bfc4bbc9d888f9f806--door-decs-door-frames.jpeg?raw=true");
+}
+
+.question {
+    background-color: gold !important;
 }
