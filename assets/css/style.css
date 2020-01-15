@@ -18,3 +18,12 @@ body {
 .question {
     background-color: gold !important;
 }
+
+#correct {
+    background-color: green !important;
+    color: white;
+}
+
+#incorrect {
+    
+}
