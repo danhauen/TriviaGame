@@ -3,27 +3,27 @@
     
 }
 
+.modal-header {
+    text-align: center !important;
+}
+
 #play-btn {
    background-color: red;
 }
 
 body {
-    background-color: black;
+    background-color: gray !important;
 }
 
 .question-card {
-    background-image: url("https://github.com/danhauen/TriviaGame/blob/master/assets/images/4e8a895b6c3830bfc4bbc9d888f9f806--door-decs-door-frames.jpeg?raw=true");
+    background-image: url("#");
 }
 
 .question {
     background-color: gold !important;
 }
 
-#correct {
-    background-color: green !important;
-    color: white;
-}
-
-#incorrect {
-    
-}
+/* #correct {
+    background-color: gold !important;
+  
+} */
